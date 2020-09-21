@@ -1,0 +1,14 @@
+*.js
+*.d.ts
+node_modules
+
+.cdk.staging
+cdk.out
+cdk.context.json
+cdk.json
+.cache/
+env/
+
+.idea/
+.vscode/
+
